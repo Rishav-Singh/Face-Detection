@@ -7,9 +7,12 @@ You need to have following packages to run this Project
       pip install python3.5   or  3.6 (its upto you which version you want)
   2.) Scipy
       pip install scipy
+      pip install scikit-image
   3.) Numpy
       In python numpy is already install you need to update it
       pip install -U numpy
+  4.) Dlib
+      pip install dlib
 
 Thats It...
 Happy Working
